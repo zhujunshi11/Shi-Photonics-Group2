@@ -7,36 +7,7 @@ type: landing
 sections:
   # ... existing sections ...
   
-  - block: markdown
-    id: pi-highlight
-    content:
-      title: 'Principal Investigator'
-      subtitle: 'Research Group Leader'
-      text: |
-        Meet **Dr. [Your Name]**, Professor of [Department] and leader of the Shi Photonics Group. 
-        With over [X] years of experience in nanophotonics research, Dr. [Name] has published 
-        [X] papers and received [major awards/grants].
-        
-        [{{< cta cta_text="Learn More" cta_link="/pi/" >}}]
-    design:
-      columns: '1'
-  
-  - block: markdown
-    id: join-us
-    content:
-      title: 'Join Our Team'
-      subtitle: 'Open Positions Available'
-      text: |
-        We're looking for motivated **postdocs**, **graduate students**, and **undergraduates** 
-        to join our research in nanophotonics. Multiple funded positions available.
-        
-        [{{< cta cta_text="View Openings" cta_link="/join/" >}}]
-    design:
-      columns: '1'
-      background:
-        color: 'navy'
-        text_color_light: true
-    
+   
   - block: hero
     content:
       title: |
