@@ -19,7 +19,7 @@ header:
 
 ## Zhujun Shi
 **Assistant Professor**  
-**Department of Physics and Astronomy**
+**Department of Physics and Astronomy**  
 **University of Pittsburgh**
 
 ### Biography
