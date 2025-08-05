@@ -25,9 +25,9 @@ header:
 </div>
 
 ### Biography
-Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced control of light. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
+Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced imaging, sensing and computation. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
 
-Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where she developed advanced nanophotonic platforms for augmented and virtual reality (AR/VR) displays. She earned her Ph.D. in Physics from Harvard University in 2020, where her doctoral research centered on developing nano-optical systems that enable novel multi-functional imaging and sensing capabilities. She received her B.S. in Physics from Tsinghua University in 2015.
+Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where she developed advanced nanophotonic platforms for augmented and virtual reality (AR/VR) displays. She earned her Ph.D. in Physics from Harvard University in 2020, where her doctoral research centered on designing nano-optical devices with multi-functional imaging and sensing capabilities. She received her B.S. in Physics from Tsinghua University in 2015.
 
 ### Research Interests
 - Integrated photonics
