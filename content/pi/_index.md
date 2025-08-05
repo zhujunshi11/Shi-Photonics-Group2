@@ -1,5 +1,5 @@
 ---
-title: 
+title: Zhujun Shi
 summary: Meet our research group leader
 date: "2025-08-04T00:00:00Z"
 
@@ -15,12 +15,14 @@ header:
   image: ""
 ---
 
-{{< figure src="/uploads/zhujun.png" numbered="false" width="300" >}}
-
-## Zhujun Shi
-**Assistant Professor**  
-**Department of Physics and Astronomy**  
-**University of Pittsburgh**
+<div style="text-align: center;">
+  <img src="/uploads/zhujun.png" width="300" alt="Zhujun Shi" style="margin-bottom: 1rem;" />
+  <p>
+    <strong>Assistant Professor</strong><br>
+    <strong>Department of Physics and Astronomy</strong><br>
+    <strong>University of Pittsburgh</strong>
+  </p>
+</div>
 
 ### Biography
 Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced control of light. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
