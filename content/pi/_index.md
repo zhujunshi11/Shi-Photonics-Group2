@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-{{< figure src="/uploads/zhujun.png" caption="Dr. Zhujun Shi" numbered="false" width="300" >}}
+{{< figure src="/uploads/zhujun.png" numbered="false" width="300" >}}
 
 ## Zhujun Shi
 **Assistant Professor**  
@@ -29,7 +29,7 @@ Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where 
 ### Research Interests
 - Integrated photonics
 - Nano-optics/metasurfaces  
-- MEMS/NEMS photonics
+- MEMS/NEMS
 - Optical physics
 
 ### Education
