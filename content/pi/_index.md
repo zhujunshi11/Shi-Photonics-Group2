@@ -7,6 +7,7 @@ reading_time: false
 share: false
 profile: false
 comments: false
+show_title: false
 
 # Optional header image
 header:
