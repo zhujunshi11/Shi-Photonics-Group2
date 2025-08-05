@@ -1,5 +1,5 @@
 ---
-title: Zhujun Shi
+title: 
 summary: Meet our research group leader
 date: "2025-08-04T00:00:00Z"
 
