@@ -1,5 +1,5 @@
 ---
-title: Principal Investigator
+title: Zhujun Shi
 summary: Meet our research group leader
 date: "2025-08-04T00:00:00Z"
 
@@ -14,44 +14,38 @@ header:
   image: ""
 ---
 
-{{< figure src="pi-photo.jpg" caption="Dr. [Your Name]" numbered="false" width="300" >}}
+{{< figure src="/uploads/zhujun.png" caption="Dr. Zhujun Shi" numbered="false" width="300" >}}
 
-## Dr. [Your Name]
-**Professor of [Department]**  
-**[University Name]**
+## Zhujun Shi
+**Assistant Professor**  
+**Department of Physics and Astronomy**
+**University of Pittsburgh**
 
 ### Biography
-[Add your biography here - education, research background, career highlights, major achievements, etc.]
+Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced control of light. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
+
+Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where she developed advanced nanophotonic platforms for augmented and virtual reality (AR/VR) displays. She earned her Ph.D. in Physics from Harvard University in 2020, where her doctoral research centered on developing nano-optical systems that enable novel multi-functional imaging and sensing capabilities. She received her B.S. in Physics from Tsinghua University in 2015.
 
 ### Research Interests
-- Metamaterials and optical metasurfaces
-- Plasmonic devices for sensing applications  
-- Quantum nanophotonics
-- Nonlinear optical phenomena
-- [Add your specific research areas]
+- Integrated photonics
+- Nano-optics/metasurfaces  
+- MEMS/NEMS photonics
+- Optical physics
 
 ### Education
-- **Ph.D.** in Physics, [University], [Year]
-- **M.S.** in [Field], [University], [Year]  
-- **B.S.** in [Field], [University], [Year]
-
-### Awards & Recognition
-- [Award Name], [Year]
-- [Fellowship Name], [Year]
-- [Recognition], [Year]
+- **Ph.D.** in Physics, Harvard University, 2020
+- **B.S.** in Physics, Tsinghua University, 2015
 
 ### Professional Experience
-- **[Current Position]** - [University], [Years]
-- **[Previous Position]** - [Institution], [Years]
-- **[Earlier Position]** - [Institution], [Years]
+- **Assistant Professor** - University of Pittsburgh, 2025 - now
+- **Research Scientist** - Meta Reality Labs, 2021-2025
+- **Display Exploration Engineer** - Apple, 2020-2021
 
 ### Contact Information
-- **Email:** [your-email@university.edu]
-- **Office:** [Building Name, Room Number]
-- **Phone:** [(555) 123-4567]
-- **Office Hours:** [Day/Time or "By appointment"]
+- **Email:** zhs126@pitt.edu
+- **Office:** 204 Allen Hall
+- **Lab:** 203 Old Engineering Hall
 
 ### Links
-- [Google Scholar Profile](https://scholar.google.com/your-profile)
-- [ResearchGate](https://researchgate.net/your-profile)
-- [ORCID](https://orcid.org/your-id)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=-_6K_O4AAAAJ&hl=en)
+- [Linkedin](https://www.linkedin.com/in/zhujunshi/)
