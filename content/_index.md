@@ -12,8 +12,6 @@ sections:
     content:
       title: |
         Research overview
-      image:
-        filename: welcome.jpg
       text: |
         <br>
         
