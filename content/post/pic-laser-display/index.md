@@ -1,8 +1,6 @@
 ---
 title: Our paper, “Flat-panel laser displays through large-scale photonic integrated circuits,” is published today in Nature. 
 date: 2025-08-21
-image:
-  focal_point: 'top'
 ---
 
 Our paper, “Flat-panel laser displays through large-scale photonic integrated circuits,” is published today in Nature. 
