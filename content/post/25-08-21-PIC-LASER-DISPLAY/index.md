@@ -2,7 +2,7 @@
 title: "Integrated photonic chip enables ultra-compact laser displays"
 date: 2025-08-15
 author: ""
-summary: "Our paper on flat-panel laser displays appears in Nature"
+summary: "Our paper on flat-panel laser displays appears in *Nature*"
 ---
 Our paper, “Flat-panel laser displays through large-scale photonic integrated circuits,” is published today in *Nature*.  
 <!--more-->
