@@ -37,19 +37,24 @@ education:
       institution: Tsinghua University
       year: 2015
 
-experience:
-  - position: Assistant Professor
-    institution: University of Pittsburgh
-    year: 2025–Present
-  - position: Research Scientist
-    institution: Meta Reality Labs
-    year: 2021–2025
-  - position: Display Exploration Engineer
-    institution: Apple
-    year: 2020–2021
+# experience:
+#  - position: Assistant Professor
+#    institution: University of Pittsburgh
+#    year: 2025–Present
+#  - position: Research Scientist
+#    institution: Meta Reality Labs
+#    year: 2021–2025
+#  - position: Display Exploration Engineer
+#    institution: Apple
+#    year: 2020–2021
 
 ---
 
 Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced imaging, sensing, and computation. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
 
 Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where she developed advanced nanophotonic platforms for augmented and virtual reality (AR/VR) displays. She earned her Ph.D. in Physics from Harvard University in 2020, where her doctoral research centered on designing nano-optical devices with multi-functional imaging and sensing capabilities. She received her B.S. in Physics from Tsinghua University in 2015.
+
+### Experience
+- **Assistant Professor**, University of Pittsburgh (2025–Present)  
+- **Research Scientist**, Meta Reality Labs (2021–2025)  
+- **Display Exploration Engineer**, Apple (2020–2021)
