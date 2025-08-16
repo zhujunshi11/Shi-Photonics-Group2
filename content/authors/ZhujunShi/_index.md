@@ -15,7 +15,7 @@ social:
   - icon: google scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=-_6K_O4AAAAJ&hl=en
-  - icon: Linkedin
+  - icon: linkedin
     icon_pack: fas
     link: https://www.linkedin.com/in/zhujunshi/ 
 ---
