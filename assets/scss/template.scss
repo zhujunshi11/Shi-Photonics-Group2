@@ -28,13 +28,13 @@ body {
 
 /* Reduce font size of h1 (titles) globally */
 h1 {
-  font-size: 1.5rem !important;
+  font-size: 1.3rem !important;
   line-height: 1.2;
 }
 
 /* Optionally, also adjust h2-h4 for consistency */
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.3;
 }
 
@@ -46,4 +46,9 @@ h3 {
 h4 {
   font-size: 0.95rem;
   line-height: 1.5;
+}
+
+/* Hide post titles on homepage compact view */
+.view-compact .article-title {
+  display: none !important;
 }
