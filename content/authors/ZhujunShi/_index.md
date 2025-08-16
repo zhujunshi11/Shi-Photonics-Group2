@@ -21,6 +21,32 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhujunshi/
+    
+interests:
+  - Integrated photonics
+  - Nano-optics / Metasurfaces
+  - MEMS / NEMS
+  - Optical physics
+
+education:
+  courses:
+    - course: Ph.D. in Physics
+      institution: Harvard University
+      year: 2020
+    - course: B.S. in Physics
+      institution: Tsinghua University
+      year: 2015
+
+experience:
+  - position: Assistant Professor
+    institution: University of Pittsburgh
+    year: 2025–Present
+  - position: Research Scientist
+    institution: Meta Reality Labs
+    year: 2021–2025
+  - position: Display Exploration Engineer
+    institution: Apple
+    year: 2020–2021
 
 ---
 
