@@ -30,6 +30,6 @@ sections:
       order: desc
       page_type: post
     design:
-      view: list
+      view: compact
       columns: '1'
 ---
