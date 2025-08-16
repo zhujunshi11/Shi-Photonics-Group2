@@ -6,7 +6,7 @@ user_groups:
   - Researchers
 superuser: false
 avatar:
-  filename: john.jpg
+  filename: taikang.png
   alt: Taikang
 bio: ''
 ---
