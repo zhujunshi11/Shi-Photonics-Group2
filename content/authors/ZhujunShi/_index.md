@@ -2,10 +2,6 @@
 # Display name
 title: Zhujun Shi
 
-# Full name (for SEO)
-first_name: Zhujun
-last_name: Shi
-
 # Username (this should match the folder name)
 authors:
   - ZhujunShi
