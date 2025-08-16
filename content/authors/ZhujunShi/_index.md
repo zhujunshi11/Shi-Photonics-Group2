@@ -16,18 +16,18 @@ Research interests:
   - Optical physics
 
 Professional Experience:
-  - **Assistant Professor** - University of Pittsburgh, 2025 - now
-  - **Research Scientist** - Meta Reality Labs, 2021-2025
-  - **Display Exploration Engineer** - Apple, 2020-2021
+  - Assistant Professor - University of Pittsburgh, 2025 - now
+  - Research Scientist - Meta Reality Labs, 2021-2025
+  - Display Exploration Engineer - Apple, 2020-2021
 
 Education:
-  - **Ph.D.** in Physics, Harvard University, 2020
-  - **B.S.** in Physics, Tsinghua University, 2015
-  - 
+  - Ph.D. in Physics, Harvard University, 2020
+  - B.S. in Physics, Tsinghua University, 2015
+    
 Contact Information:
-  - **Email:** zhujunshi@pitt.edu
-  - **Office:** 204 Allen Hall
-  - **Lab:** 203 Old Engineering Hall
+  - Email: zhujunshi@pitt.edu
+  - Office: 204 Allen Hall
+  - Lab: 203 Old Engineering Hall
       
 social:
   - icon: envelope
