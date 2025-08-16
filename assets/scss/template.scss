@@ -10,12 +10,18 @@
 
 /* Reduce font size of the hero block title */
 .hero-title {
-  font-size: 2.2rem !important;
+  font-size: 1.2rem !important;
   line-height: 1.2;
 }
 
 /* Reduce font size of the hero block text */
 .hero-lead {
-  font-size: 1.1rem !important;
+  font-size: 0.95rem !important;
+  line-height: 1.5;
+}
+
+/* Global body text font size */
+body {
+  font-size: 0.95rem;
   line-height: 1.5;
 }
