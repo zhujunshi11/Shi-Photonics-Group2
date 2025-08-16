@@ -14,15 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Physics and Astronomy
+role: Principal Investigator
 
-# Organizations/Affiliations
-organizations:
-  - name: University of Pittsburgh
-    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on nanophotonic systems for imaging, sensing, and computation.
+# bio: My research focuses on nanophotonic systems for imaging, sensing, and computation.
 
 interests:
   - Integrated photonics
