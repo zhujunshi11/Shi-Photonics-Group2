@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: Principal Investigator
 
+user_groups:
+  - Principal Investigator
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research focuses on nanophotonic systems for imaging, sensing, and computation.
