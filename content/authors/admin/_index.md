@@ -10,7 +10,7 @@ last_name: Shi
 superuser: true
 
 # Role/position
-role: Assistant Professor of Physics and Astronomy
+role: Assistant Professor, Department of Physics and Astronomy
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
