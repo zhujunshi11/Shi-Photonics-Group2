@@ -1,7 +1,7 @@
 ---
 title: "Our paper published in Nature"
-date: 2025-08-21
-show_author: false
+date: 2025-08-15
+author: ""
 ---
 Our paper, “Flat-panel laser displays through large-scale photonic integrated circuits,” is published today in *Nature*.  
 <!--more-->
