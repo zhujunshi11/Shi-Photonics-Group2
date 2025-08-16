@@ -10,32 +10,6 @@ avatar:
   alt: zhujun
 bio: ''
 
-interests:
-  - Integrated photonics
-  - Nano-optics / Metasurfaces
-  - MEMS / NEMS
-  - Optical physics
-
-education:
-  courses:
-    - course: Ph.D. in Physics
-      institution: Harvard University
-      year: 2020
-    - course: B.S. in Physics
-      institution: Tsinghua University
-      year: 2015
-
-experience:
-  - position: Assistant Professor
-    institution: University of Pittsburgh
-    year: 2025–Present
-  - position: Research Scientist
-    institution: Meta Reality Labs
-    year: 2021–2025
-  - position: Display Exploration Engineer
-    institution: Apple
-    year: 2020–2021
-
 # Social/Academic Networking
 social:
   - icon: envelope
@@ -48,17 +22,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhujunshi/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: zhujunshi@pitt.edu
-
-# Organizational groups that you belong to (for People widget)
-user_groups:
-  - Principal Investigators
-
-# Avatar image (placed in content/authors/ZhujunShi/avatar.jpg or .png)
-avatar:
-  filename: avatar.jpg
-  alt: Zhujun Shi
 ---
 
 Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh. Her research focuses on developing nanophotonic systems for advanced imaging, sensing, and computation. She investigates new physical mechanisms of nanoscale light–matter interaction and uses them to design devices that can control light in new and extreme ways.
