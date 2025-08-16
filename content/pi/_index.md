@@ -1,7 +1,5 @@
 ---
 title: Zhujun Shi
-summary: Meet our research group leader
-date: "2025-08-04T00:00:00Z"
 
 reading_time: false
 share: false
