@@ -44,15 +44,6 @@ Zhujun Shi is an Assistant Professor in the Department of Physics and Astronomy 
 
 Prior to joining Pitt, she was a research scientist at Meta Reality Labs, where she developed advanced nanophotonic platforms for augmented and virtual reality (AR/VR) displays. She earned her Ph.D. in Physics from Harvard University in 2020, where her doctoral research centered on designing nano-optical devices with multi-functional imaging and sensing capabilities. She received her B.S. in Physics from Tsinghua University in 2015.
 
-*RESEARCH INTEREST*
-- Integrated photonics
-- Nano-optics / Metasurfaces
-- MEMS / NEMS
-- Optical physics
-
-EDUCATION
-- PhD in Physics, Harvard University, 2020
-- BS in Physics, Tsinghua University, 2015
 
 PROFESSIONAL EXPERIENCE
 - Assistant Professor, University of Pittsburgh (2025–Present)  
