@@ -1,12 +1,9 @@
 ---
 title: Nehal Sharma
-role: Postdoc Researcher
+role: Grad Student
 email: nehal_sharma@pitt.edu
 user_groups:
-  - Researchers
+  - Grad Students
 superuser: false
-avatar:
-  filename: taikang.png
-  alt: Taikang
 bio: ''
 ---
