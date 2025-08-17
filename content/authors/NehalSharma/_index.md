@@ -1,9 +1,9 @@
 ---
 title: Nehal Sharma
-role: Grad students
+role: Postdoc Researcher
 email: nehal_sharma@pitt.edu
 user_groups:
-  - Grad students
+  - Postdoc Researcher
 superuser: false
 avatar:
   filename: avatar.jpg
