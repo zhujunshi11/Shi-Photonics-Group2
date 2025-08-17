@@ -1,12 +1,12 @@
 ---
-title: Nehal Sharma
+title: Taikang Ye
 role: Postdoc Researcher
-email: nehal_sharma@pitt.edu
+email: TAY83@pitt.edu
 user_groups:
-  - Postdoc Researcher
+  - Researchers
 superuser: false
 avatar:
-  filename: avatar.jpg
-  alt: Nehal
+  filename: taikang.png
+  alt: Taikang
 bio: ''
 ---
