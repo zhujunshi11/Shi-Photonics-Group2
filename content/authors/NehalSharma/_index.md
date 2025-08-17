@@ -1,6 +1,6 @@
 ---
 title: Nehal Sharma
-role: Grad student
+role: Grad students
 email: nehal_sharma@pitt.edu
 user_groups:
   - Grad students
