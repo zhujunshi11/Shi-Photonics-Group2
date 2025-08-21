@@ -6,23 +6,31 @@ menu:
     weight: 30
 ---
 <style>
-  /* Number the bibliography entries and add spacing */
+  /* Numbered Chicago refs with clean alignment */
   #refs { counter-reset: ref; }
-  #refs .csl-entry {
-    counter-increment: ref;
-    margin: 0.6rem 0 1rem;      /* extra vertical space */
-  }
-  #refs .csl-entry::before {
-    content: counter(ref) ". ";
-    font-weight: 600;           /* make the number a bit bolder */
+
+  #refs .csl-entry{
+    position: relative;
+    margin: 0 0 1rem 0;   /* extra spacing between items */
+    padding-left: 2.2em;  /* room for the number */
   }
 
-  /* If you’re using hanging-indent, you can widen it a bit so numbers line up nicely */
-  #refs.hanging-indent .csl-entry {
-    padding-left: 2.0em;
-    text-indent: -2.0em;
+  #refs .csl-entry::before{
+    counter-increment: ref;
+    content: counter(ref) ".";
+    position: absolute;
+    left: 0;
+    top: 0.1em;           /* tweak vertical alignment */
+    font-weight: 600;
+  }
+
+  /* Neutralize Pandoc’s hanging-indent so it doesn't push text under the number */
+  #refs.hanging-indent .csl-entry{
+    text-indent: 0;
+    padding-left: 2.2em;  /* keep same gutter */
   }
 </style>
+
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
 
