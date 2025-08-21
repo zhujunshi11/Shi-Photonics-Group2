@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: publications
     content:
-      source: "files/publications.bib"   # path relative to /static
+      source: "files/publication.bib"   # path relative to /static
       sort_by: date
       order: desc
     design:
