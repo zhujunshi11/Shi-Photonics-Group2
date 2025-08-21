@@ -1,11 +1,14 @@
 ---
-title: Publications
+widget: publications
+headless: true
+active: true
+title: "Publications"
 
-# Listing view
-view: citation
+content:
+  # Path to your exported BibTeX file
+  bibtex: "content/publications/publications.bib"
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+design:
+  view: citation   # this makes it look like Google Scholar
+  columns: 1
 ---
