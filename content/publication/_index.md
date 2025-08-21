@@ -6,7 +6,7 @@ title: "Publications"
 
 content:
   # Path to your exported BibTeX file
-  bibtex: "content/publications/publications.bib"
+  bibtex: "content/publication/publication.bib"
 
 design:
   view: citation   # this makes it look like Google Scholar
