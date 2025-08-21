@@ -6,7 +6,7 @@ user_groups:
   - Principal Investigator
 superuser: false
 avatar:
-  filename: zhujun.png
+  filename: avatar.jpg
   alt: zhujun
 bio: ''
 
