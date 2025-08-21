@@ -57,7 +57,7 @@ sections:
             background: #fff;
           }
           #welcome-slider img {
-            height: 400px;        /* set consistent height */
+            height: 300px;        /* set consistent height */
             width: auto;          /* width adjusts automatically */
             object-fit: contain;  /* keep aspect ratio, no cropping */
             display: block;
