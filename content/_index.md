@@ -22,10 +22,10 @@ sections:
 
         <div class="swiper" id="welcome-slider">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="/uploads/metalens.png" alt="Image 1"></div>
-            <div class="swiper-slide"><img src="/uploads/picschematic.png" alt="Image 2"></div>
-            <div class="swiper-slide"><img src="/uploads/poincare.png" alt="Image 3"></div>
-            <div class="swiper-slide"><img src="/uploads/pic.png" alt="Image 4"></div>
+            <div class="swiper-slide"><img src="/uploads/pic.png" alt="Image 1"></div>
+            <div class="swiper-slide"><img src="/uploads/metalens.png" alt="Image 2"></div>
+            <div class="swiper-slide"><img src="/uploads/picschematic.png" alt="Image 3"></div>
+            <div class="swiper-slide"><img src="/uploads/poincare.png" alt="Image 4"></div>
           </div>
 
           <!-- controls -->
