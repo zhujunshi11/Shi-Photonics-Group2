@@ -5,7 +5,24 @@ menu:
     name: Publications
     weight: 30
 ---
+<style>
+  /* Number the bibliography entries and add spacing */
+  #refs { counter-reset: ref; }
+  #refs .csl-entry {
+    counter-increment: ref;
+    margin: 0.6rem 0 1rem;      /* extra vertical space */
+  }
+  #refs .csl-entry::before {
+    content: counter(ref) ". ";
+    font-weight: 600;           /* make the number a bit bolder */
+  }
 
+  /* If you’re using hanging-indent, you can widen it a bit so numbers line up nicely */
+  #refs.hanging-indent .csl-entry {
+    padding-left: 2.0em;
+    text-indent: -2.0em;
+  }
+</style>
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
 
