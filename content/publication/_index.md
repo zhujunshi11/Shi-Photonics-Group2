@@ -1,14 +1,21 @@
 ---
-widget: publications
-headless: true
-active: true
 title: "Publications"
+type: landing
 
-content:
-  # Path to your exported BibTeX file
-  bibtex: "content/publication/publication.bib"
+sections:
+  - block: collection
+    content:
+      title: ""
+      bibtex: "content/publication/publication.bib"   # path to your bib file
+      sort_by: date
+      order: desc
+    design:
+      view: citation
+      columns: 1
 
-design:
-  view: citation   # this makes it look like Google Scholar
-  columns: 1
+menu:
+  main:
+    name: Publications
+    weight: 30
+    url: /publications/
 ---
