@@ -8,6 +8,11 @@
   justify-content: center;
 }
 
+body.home .section {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
 /* Reduce font size of the hero block title */
 .hero-title {
   font-size: 1.2rem !important;
