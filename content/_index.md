@@ -50,7 +50,18 @@ sections:
 
         <style>
           #welcome-slider { max-width: 980px; margin: 0 auto; }
-          #welcome-slider img { width: 100%; height: auto; display: block; border-radius: 12px; }
+          #welcome-slider .swiper-slide {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #fff;
+          }
+          #welcome-slider img {
+            height: 400px;        /* set consistent height */
+            width: auto;          /* width adjusts automatically */
+            object-fit: contain;  /* keep aspect ratio, no cropping */
+            display: block;
+          }
         </style>
     design:
       columns: '1'
