@@ -1,5 +1,5 @@
 ---
-title: "Dr. Zhujun Shi joins Pitt"
+title: "Zhujun joins Pitt"
 date: 2025-08-21
 lastmod: 2025-08-21
 author: ""
