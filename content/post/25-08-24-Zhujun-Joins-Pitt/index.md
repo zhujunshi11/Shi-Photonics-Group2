@@ -1,5 +1,5 @@
 ---
-title: "Dr. Zhujun Shi starts as an assistant professor in Department of Physics and Astronomy at the University of Pittsburgh"
+title: "Dr. Zhujun Shi joins Pitt"
 date: 2025-08-21
 lastmod: 2025-08-21
 author: ""
