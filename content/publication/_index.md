@@ -3,10 +3,9 @@ title: "Publications"
 type: landing
 
 sections:
-  - block: collection
+  - block: publications
     content:
-      title: ""
-      bibtex: "content/publication/publication.bib"   # path to your bib file
+      source: "files/publications.bib"   # path relative to /static
       sort_by: date
       order: desc
     design:
