@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
+description: "Shi Photonics Group at the University of Pittsburgh "
 date: 2025-08-04
 type: landing
 
