@@ -5,6 +5,8 @@
 
 title: Shi Photonics Group # Website name
 baseURL: 'https://www.shi-photonics-group.com/' # Website URL
+canonifyURLs: true
+enableRobotsTXT: true
 
 ############################
 ## LANGUAGE
