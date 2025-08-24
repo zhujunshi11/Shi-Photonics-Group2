@@ -5,6 +5,13 @@
 
 title: Shi Photonics Group # Website name
 baseURL: 'https://www.shi-photonics-group.com/' # Website URL
+enableRobotsTXT: true
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+outputs:
+  home: [HTML, RSS, SITEMAP]
 
 ############################
 ## LANGUAGE
