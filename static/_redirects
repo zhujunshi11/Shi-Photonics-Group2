@@ -1,1 +1,18 @@
-https://shi-photonics-group.com/* https://www.shi-photonics-group.com/:splat 301!
+# netlify.toml
+[[redirects]]
+  from = "http://shi-photonics-group.com/*"
+  to = "https://www.shi-photonics-group.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://shi-photonics-group.com/*"
+  to = "https://www.shi-photonics-group.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.shi-photonics-group.com/*"
+  to = "https://www.shi-photonics-group.com/:splat"
+  status = 301
+  force = true
