@@ -1,5 +1,5 @@
 ---
-title: "Zhujun joins Pitt"
+title: "Zhujun named to Photonics100 2026"
 date: 2025-09-25
 lastmod: 2025-09-25
 author: ""
