@@ -3,7 +3,7 @@ title: "Zhujun joins Pitt"
 date: 2025-08-21
 lastmod: 2025-08-21
 author: ""
-summary: "Zhujun starts as an assistant professor in Department of Physics and Astronomy at the University of Pittsburgh"
+summary: "Zhujun joines Pitt"
 ---
 <!--more-->
 Zhujun just joined the Department of Physics and Astronomy at the University of Pittsburgh as an Assistant Professor. 
