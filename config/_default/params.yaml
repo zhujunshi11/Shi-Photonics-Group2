@@ -116,3 +116,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+article:
+  show_date: true
+  show_date_updated: false   # <- turn off “Updated” globally
+  show_reading_time: false   # optional
