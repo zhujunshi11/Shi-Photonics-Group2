@@ -27,8 +27,6 @@ removePathAccents: true
 ############################
 
 enableGitInfo: false
-frontmatter:
-  lastmod: ["lastmod", ":default"]  # don’t fall back to file mod time
 summaryLength: 30
 pagination:
   pagerSize: 10
